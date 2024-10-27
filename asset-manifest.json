@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mind-peers-decode-spawns/static/css/main.f002615e.css",
+    "main.js": "/mind-peers-decode-spawns/static/js/main.c79ad85e.js",
+    "index.html": "/mind-peers-decode-spawns/index.html",
+    "main.f002615e.css.map": "/mind-peers-decode-spawns/static/css/main.f002615e.css.map",
+    "main.c79ad85e.js.map": "/mind-peers-decode-spawns/static/js/main.c79ad85e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f002615e.css",
+    "static/js/main.c79ad85e.js"
+  ]
+}
