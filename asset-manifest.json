@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/mind-peers-decode-spawns/static/css/main.f002615e.css",
-    "main.js": "/mind-peers-decode-spawns/static/js/main.c79ad85e.js",
+    "main.css": "/mind-peers-decode-spawns/static/css/main.4348ea01.css",
+    "main.js": "/mind-peers-decode-spawns/static/js/main.9e55cab2.js",
+    "static/media/meditate-4882027_1920.jpg": "/mind-peers-decode-spawns/static/media/meditate-4882027_1920.2207500f4b658cb4de76.jpg",
     "index.html": "/mind-peers-decode-spawns/index.html",
-    "main.f002615e.css.map": "/mind-peers-decode-spawns/static/css/main.f002615e.css.map",
-    "main.c79ad85e.js.map": "/mind-peers-decode-spawns/static/js/main.c79ad85e.js.map"
+    "main.4348ea01.css.map": "/mind-peers-decode-spawns/static/css/main.4348ea01.css.map",
+    "main.9e55cab2.js.map": "/mind-peers-decode-spawns/static/js/main.9e55cab2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f002615e.css",
-    "static/js/main.c79ad85e.js"
+    "static/css/main.4348ea01.css",
+    "static/js/main.9e55cab2.js"
   ]
 }
